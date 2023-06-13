@@ -1,0 +1,10 @@
+* literate-lisp
+
+Load Common Lisp code blocks from Org files
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jingtaozf/literate-lisp.git   |
+| commit  | 76d4d2c  |
+| systems | literate-lisp |
+|---------+-------------------------------------------|
+
